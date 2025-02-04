@@ -17,7 +17,7 @@ public class ExpressionConsoleArea {
 		boolean intMathBoolean = true;
 
 		// Asks user for the file with the expressions on it
-		System.out.print("Enter the file name with expressions you wish to solve: ");
+		System.out.print("Hello there! Please enter the file name with expressions you wish to solve: ");
 
 		// Try + Catch statement to see if the file exists
 		try {
